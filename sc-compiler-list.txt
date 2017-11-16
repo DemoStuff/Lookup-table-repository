@@ -2,3 +2,4 @@ INS01PGM-Batch Cobol w/o DB2
 INS02PGM-Batch Cobol w/ DB2
 MKCT00-Online Cobol w/o DB2
 MKCT01-Online Cobol w/ DB2
+MKCTSET-BMS Compiler
